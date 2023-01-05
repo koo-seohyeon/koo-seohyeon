@@ -1,8 +1,7 @@
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=koo&fontSize=90" /
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=koo&fontSize=90"/>
 <br/><br/><br/><br/>
 
 <h3>:zap: Tech Stack</h3>
